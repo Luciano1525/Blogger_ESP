@@ -1,0 +1,8 @@
+/* Estilos para las imágenes de los artículos */
+img {
+    max-width: 45%; 
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}

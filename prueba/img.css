@@ -1,0 +1,12 @@
+/* Estilos para la imagen */
+img {
+    /* Define un tamaño máximo para la imagen */
+    max-width: 45%;
+    height: auto; /* Esto mantiene la proporción de la imagen */
+    /* Define una forma específica, como redondeada */
+    border-radius: 10px;
+    /* Define un borde */
+    border: 2px solid #ccc;
+    /* Define un margen inferior para separar la imagen de otros elementos */
+    margin-bottom: 20px;
+}
